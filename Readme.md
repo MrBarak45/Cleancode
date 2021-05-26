@@ -9,7 +9,7 @@ Nous allons creer :
 
 
 
-# Un namespace UserCases qui contiendra :
+# Un namespace UseCases qui contiendra :
 - ProductCalc : interface qui contiendra les methodes.
 - PublicUserProductCalc : qui contiendra les regles metiers de calcul du prix dans le cas d'un utilisateur non enregistré
 - RegisteredUserProductCalc : qui contiendra les regles metiers de calcul du prix dans le cas d'un utilisateur enregistré selon son historique sur les 6 derniers mois.
